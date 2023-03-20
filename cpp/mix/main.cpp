@@ -5,6 +5,6 @@ using namespace std;
 
 int main()
 {
-    dispaly();
+    // dispaly();
     return 0;
 }

@@ -1,3 +1,0 @@
-/Users/sm2226/VScodeProjects/cpp/cmake/build/CMakeFiles/hello.dir
-/Users/sm2226/VScodeProjects/cpp/cmake/build/CMakeFiles/edit_cache.dir
-/Users/sm2226/VScodeProjects/cpp/cmake/build/CMakeFiles/rebuild_cache.dir
